@@ -35,7 +35,7 @@ class aboutme extends Component {
               I am an advocate for Higher Education advancement and
               when I set my goals I sink my teeth into them.
               </p>
-              <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1cJBWSEuffGrgEW9K3q0_0kqRFODE6l3c/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download CV<i className="icon-download4" /></a></p>
+              <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1cJBWSEuffGrgEW9K3q0_0kqRFODE6l3c/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Resume<i className="icon-download4" /></a></p>
             </Cell>
           </Grid>
         </Paper>

@@ -65,16 +65,14 @@ class Resume extends Component {
           <hr style={{ boredTop: "6px solid #833fb2", width: "80" }}></hr>
           <h5 className="center">Professional Summary</h5>
           <p className="summary">
-            Scrum Master experience working in agile environment for 5 years
-            with a team of 4 developers and 2 software testers.
-            <br />
-            Proven history of successful work with cross-functional teams.
-            Strong ability to multitask and to perform with a sense
-            <br /> of urgency for rapid issue resolution.
+          Innovative Front End Developer with 3 years experience 
+          building and maintaining responsive websites . <br/>Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks (React JS and React native).<br/>
+           Passionate about usability and possess working knowledge of Adobe Dreamweaver and Photoshop.
+            <br/>
           </p>
         </div>
         <p className="space"></p>
-        <h5 className="center">Key Skills</h5>
+        <h5 className="center">Technical Skills</h5>
         <div>
           <div className="height">
             <p classs="height"> {skillComponent}</p>

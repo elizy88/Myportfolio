@@ -2,12 +2,21 @@ const ExperienceData = [
     {
       id: 1,
       Job:
-        "Database Manager, Albo African Gift shop, Oakland, CA ,07/2018 - 12/2018",
+        "React Front-End Developer,Code the Dream, Duram, NC,USA ,02/2019 - Present",
   
       list: [
-        "Designed and managed inventory on company’s internal database",
-        "Upgraded database systems by adding fields and filters to increase business efficiency",
-        "Installed and maintained money transfer software using RIA and GMT"
+        "Designed and developed HTML5,CSS,Semantic UI,JavaScript and React JSthat meets accessibility and web browser standards for websites.",
+        "Created website layout/user interface by using standard HTML/CSS practices",
+        "Designed CSS templates for use in all pages on the website working with CSS Background,positioning,text,border,margin,padding and table.",
+        "Designed WireFrames using Figma and Balsamiq wireframing tools",
+        "Developed user interface by using React JS",
+        "Mentor new interns at code the dream.",
+        "Used React-Router to turn application into Single Page Application",
+        "Worked in using React Components,Forms,Events,Keys and Routers.",
+        "Extensively used  Git for Version controlling and Regularly pushed code to github.",
+        "Interacted with the Testing Team,Scrum Masters and Business Analysts for fixing issues.",
+        "Worked on an Agile (scrum) Development team to deliver regular updates to business team and project managers."
+        
       ]
     },
     {

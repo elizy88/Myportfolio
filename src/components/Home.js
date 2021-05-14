@@ -22,13 +22,10 @@ class Home extends Component {
                             <br/>
                         <hr />
                         <ul className="social">
-                           <li><a href="#"><i className="fa fa-facebook" /></a></li>
-                           <li><a href="#"><i className="fa fa-twitter" /></a></li>
+                           <li><a href="https://github.com/elizy88"><i className="fa fa-github" /></a></li>
+                           <li><a href="https://mail.google.com/mail"><i className="fa fa-mail" /></a></li>
                            <li><a href="#"><i className="fa fa-google-plus" /></a></li>
-                           <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-                           <li><a href="#"><i className="fa fa-instagram" /></a></li>
-                           <li><a href="#"><i className="fa fa-dribbble" /></a></li>
-                           <li><a href="#"><i className="fa fa-skype" /></a></li>
+                        
                         </ul>
                       </div>
                    </div> 
